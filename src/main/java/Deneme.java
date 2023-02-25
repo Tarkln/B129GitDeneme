@@ -3,7 +3,7 @@ public class Deneme {
         System.out.println("merhaba");
         System.out.println("Dünya");
         System.out.println("asdf");
-        System.out.println("ert");
+        System.out.println("qwerty");
 
     }
 }
